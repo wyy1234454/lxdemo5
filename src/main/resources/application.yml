@@ -6,7 +6,7 @@ spring:
     driver-class-name: com.mysql.cj.jdbc.Driver
     url: jdbc:mysql://localhost:3306/lxxx?allowPublicKeyRetrieval=true&useSSL=false
     username: root
-    password: Yyang0224
+    password: yyanglixian
 
 mybatis-plus:
   configuration:
