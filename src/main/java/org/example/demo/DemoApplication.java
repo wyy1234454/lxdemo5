@@ -11,8 +11,5 @@ public class DemoApplication {
         System.out.println("------DemoApplication  start-------");
         SpringApplication.run(DemoApplication.class, args);
         System.out.println("------DemoApplication  end-------");
-
-        //在Java代码里面测试数据库是否能连接，数据库名叫root，密码:Yyang0224
-
     }
 } 
